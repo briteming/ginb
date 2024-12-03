@@ -12,7 +12,7 @@ const siteConfig = {
   },
   footer:
     "Proudly powred by [ginb](https://github.com/ChrAlpha/ginb) based on [Next.js](https://nextjs.org) and [Vercel](https://vercel.com)",
-  post_per_page: 20,
+  post_per_page: 4,
 };
 
 module.exports = siteConfig;
